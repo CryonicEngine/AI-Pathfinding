@@ -1,15 +1,13 @@
-[
-  {
-    "name": "AI Pathfinding",
-    "description": "AI pathfinding system for navigation and real-time movement using the A* search algorithm.",
-    "author": "Cryonic"
-    "version": "0.1",
-    "is_beta": true,
-    "supported_engine_versions": {
-      "min": "0.1",
-      "max": "1.0"
-    },
-    "dependencies": [],
-    "category": "Scripts"
-  }
-]
+{
+  "name": "AI Pathfinding",
+  "description": "AI pathfinding system for navigation and real-time movement using the A* search algorithm.",
+  "author": "Cryonic",
+  "version": "0.1",
+  "is_beta": true,
+  "supported_engine_versions": {
+    "min": "0.1",
+    "max": "1.0"
+  },
+  "dependencies": [],
+  "category": "Scripts"
+}
