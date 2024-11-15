@@ -9,5 +9,6 @@
     "max": "1.0"
   },
   "dependencies": [],
-  "category": "Scripts"
+  "category": "Scripts",
+  "url": "https://github.com/CryonicEngine/AI-Pathfinding"
 }
